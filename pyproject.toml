@@ -33,7 +33,6 @@ fermi = ["ifermi", "pyfftw"]
 phonon = ["phonopy"]
 vtk = ["dash-vtk"]
 localenv = ["dscribe"]
-lobster = ["lobsterpy"]
 figures = ["kaleido"]
 dev = [
     "black",
